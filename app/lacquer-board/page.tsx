@@ -1,8 +1,7 @@
 "use client";
 
 import React from "react";
-import Phone from "lucide-react/Phone"; // Import Phone component
-import Mail from "lucide-react/Mail"; // Import Mail component
+import { Phone, Mail } from "lucide-react";
 
 import Image from "next/image";
 import Link from "next/link";
